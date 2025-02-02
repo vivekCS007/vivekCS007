@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I’m @vivekCS007<br>👀 I’m interested in AI/ML<br>🌱 I’m currently learning Machine Learning and Web Development<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me https://www.linkedin.com/in/viveksharma200403/<br>😄 Pronouns: He/Him
+<br>👋 Hi, I’m @vivekCS007<br>👀 I’m interested in AI/ML<br>🌱 I’m currently learning Machine Learning and Web Development<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
